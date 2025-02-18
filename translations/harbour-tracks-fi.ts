@@ -168,7 +168,7 @@
     <message>
         <location filename="../qml/pages/ContextList.qml" line="29"/>
         <source>Refresh</source>
-        <translation>Päivitä</translation>
+        <translation>Virkistä</translation>
     </message>
     <message>
         <location filename="../qml/pages/ContextList.qml" line="39"/>
@@ -235,7 +235,7 @@
     <message>
         <location filename="../qml/pages/TaskList.qml" line="27"/>
         <source>Refresh</source>
-        <translation>Päivitä</translation>
+        <translation>Virkistä</translation>
     </message>
     <message>
         <location filename="../qml/pages/TaskList.qml" line="34"/>
